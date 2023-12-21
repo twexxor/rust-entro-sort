@@ -8,4 +8,4 @@ keywords = ["ascending", "descending", "generic", "n-log-n", "sort-order"]
 license = "MIT"
 name = "entro-sort"
 repository = "https://github.com/twexxor/rust-entro-sort"
-version = "1.0.0"
+version = "1.0.1"
