@@ -8,7 +8,7 @@ The following code demonstrates an example implementation included in this packa
 ``` rust
 extern crate entro_sort;
 
-use entro_sort::entro_sort::entro_sort;
+use entro_sort::entro_sort::*;
 
 fn main() {
     let mut input1: [u8;10] = [24, 132, 22, 217, 185, 9, 65, 245, 88, 148];
